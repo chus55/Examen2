@@ -123,3 +123,47 @@
 1418319243 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\2014examen2\nodo.cpp
 	"Nodo.h"
 
+1418319243 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\arboltrinario.cpp
+	"ArbolTrinario.h"
+
+1418319243 c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\arboltrinario.h
+	<iostream>
+
+1418319243 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\evaluador.cpp
+	"Evaluador.h"
+
+1418319243 c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+	"ArbolTrinario.h"
+	<list>
+	<vector>
+
+1418323034 c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\lista.h
+	<iostream>
+	"Nodo.h"
+
+1418319243 c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\nodo.h
+	<iostream>
+
+1418319243 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\lista.cpp
+	"Lista.h"
+
+1418322481 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\main.cpp
+	"Lista.h"
+	"ArbolTrinario.h"
+	"Evaluador.h"
+	<fstream>
+	<list>
+	<vector>
+	<math.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	<algorithm>
+
+1418319243 source:c:\users\jesus\dropbox\clases unitec\programacion 3\projects\examen2\nodo.cpp
+	"Nodo.h"
+
